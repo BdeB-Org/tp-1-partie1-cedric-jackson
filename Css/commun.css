@@ -14,15 +14,24 @@ Partie pour produit 1(cédric)
 }
 .imageStick{
     float: left;
-    width: 30%;
-    height: 30%;
+    width: 35%;
+    height: 35%;
     background-color: lightgrey;
 }
 .headerP1{
+    text-align: center;
     background-color: blue;
+    color: white;
+    margin: 0%;
+}
+.liencat1{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.titrep1{
     color: black;
     text-align: center;
-    
 }
 .descpP1{
     
@@ -30,4 +39,9 @@ Partie pour produit 1(cédric)
     background-color: lightgray;
     font-size:large;
     width: 50%;
+}
+.Prixp1{
+    background-color: lightgray;
+    width: 35%;
+    text-align: center;
 }
