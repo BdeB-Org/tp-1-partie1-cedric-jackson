@@ -16,13 +16,13 @@ Partie pour produit 1(cédric)
     float: left;
     width: 35%;
     height: 35%;
-    background-color: lightgrey;
 }
 .headerP1{
     text-align: center;
     background-color: blue;
     color: white;
-    margin: 0%;
+    margin: auto;
+    padding: 1%;
 }
 .liencat1{
     text-decoration: none;
@@ -32,16 +32,22 @@ Partie pour produit 1(cédric)
 .titrep1{
     color: black;
     text-align: center;
+    margin: 0%;
 }
-.descpP1{
-    
-    float: left;
-    background-color: lightgray;
-    font-size:large;
-    width: 50%;
+.descpP1{    
+    padding: 1%;
+    position: relative;
+    left: 15%;
+    width: 75%;
+    font-size: larger;
 }
 .Prixp1{
-    background-color: lightgray;
-    width: 35%;
+    width: 25%;
     text-align: center;
+    padding: 1%;
+    
+}
+.div1{
+    margin: auto;
+    padding: 1%;
 }
