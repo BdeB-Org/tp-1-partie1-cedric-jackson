@@ -51,3 +51,16 @@ Partie pour produit 1(cédric)
     margin: auto;
     padding: 1%;
 }
+.div2{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    width: 45%;
+    margin-top: 5%;
+}
+.titreL1{
+    color: black;
+    text-align: center;
+    margin: 0%;
+    text-decoration: none;
+}
