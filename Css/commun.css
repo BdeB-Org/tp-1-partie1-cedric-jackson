@@ -1,0 +1,63 @@
+/*
+Partie pour produit 1(cédric)
+*/
+.produit1{
+    float: left;
+    width: 50%;
+}
+.produit2{
+    float: left;
+    width: 50%;
+}
+.imageStick{
+    float: left;
+    width: 35%;
+    height: 35%;
+}
+.headerP1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin: auto;
+    padding: 1%;
+}
+.liencat1{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.titrep1{
+    color: black;
+    text-align: center;
+    margin: 0%;
+}
+.descpP1{    
+    padding: 1%;
+    position: relative;
+    left: 15%;
+    width: 75%;
+    font-size: larger;
+}
+.Prixp1{
+    width: 25%;
+    text-align: center;
+    padding: 1%;
+    
+}
+.div1{
+    margin: auto;
+    padding: 1%;
+}
+.div2{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    width: 45%;
+    margin-top: 5%;
+}
+.titreL1{
+    color: black;
+    text-align: center;
+    margin: 0%;
+    text-decoration: none;
+}
