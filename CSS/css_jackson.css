@@ -10,8 +10,11 @@
     color: black;
     font-size: large;
 }
-.titreL1{
-    color: black;
-    text-align: center;
-    margin: 0%;
+
+.div2{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    width: 45%;
+    margin-top: 5%;
 }
