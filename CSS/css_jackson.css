@@ -1,6 +1,6 @@
 .headerP2{
     text-align: center;
-    background-color: blue;
+    background-color: rgba(255, 166, 0, 0.76);
     color: white;
     margin: auto;
     padding: 1%;
@@ -29,4 +29,38 @@
     text-align: center;
     margin: 0%;
     text-decoration: none;
+}
+.headersport{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin: auto;
+    padding: 1%;
+}
+.titrep3{
+    color: black;
+    text-align: center;
+    margin: 0%;
+}
+.div1{
+    margin: auto;
+    padding: 1%;
+}
+.descpP3{    
+    padding: 1%;
+    position: relative;
+    left: 15%;
+    width: 75%;
+    font-size: larger;
+}
+.Prixp3{
+    width: 25%;
+    text-align: center;
+    padding: 1%;
+    
+}
+.imageballon{
+    float: left;
+    width: 35%;
+    height: 35%;
 }
