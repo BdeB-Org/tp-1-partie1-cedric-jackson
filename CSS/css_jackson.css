@@ -1,6 +1,6 @@
 .headerP2{
     text-align: center;
-    background-color: rgba(255, 166, 0, 0.76);
+    background-color: #ffa600c2;
     color: white;
     margin: auto;
     padding: 1%;
@@ -32,7 +32,7 @@
 }
 .headersport{
     text-align: center;
-    background-color: blue;
+    background-color: #ffa600c2;
     color: white;
     margin: auto;
     padding: 1%;
@@ -59,7 +59,7 @@
     padding: 1%;
     
 }
-.imageballon{
+.image{
     float: left;
     width: 35%;
     height: 35%;
